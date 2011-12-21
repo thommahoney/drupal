@@ -179,7 +179,7 @@
  */
  $databases['default']['default'] = array(
     'driver' => 'mysql',
-    'database' => 'databasename',
+    'database' => 'db_e91abb46',
     'username' => 'user_e91abb46',
     'password' => '9TGKFe,Re%ECvR',
     'host' => 'a.db.shared.orchestra.io',
